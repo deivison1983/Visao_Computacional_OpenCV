@@ -1,4 +1,8 @@
 # Fundamentos de Visão Computacional e Processamento de Imagens com OpenCV
+<div align="center">
+      <img src="data/imagem/logo_opencv_e_python.png" width="425" height="425">
+</div>  
+
 
 ## Sobre o Repositório
 

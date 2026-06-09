@@ -43,7 +43,7 @@ Neste notebook são apresentados os conceitos básicos de imagens digitais utili
 
 📘 Notebook: 
 
-**Notebook 01:**[01_opencv_manipulacao_imagens.ipynb](https://github.com/deivison1983/Visao_Computacional_OpenCV/blob/main/notebooks/01_opencv_manipulacao_imagens.ipynb)
+**Notebook:**[ 01_opencv_manipulacao_imagens.ipynb](https://github.com/deivison1983/Visao_Computacional_OpenCV/blob/main/notebooks/01_opencv_manipulacao_imagens.ipynb)
 
 ---
 
@@ -63,7 +63,7 @@ Este notebook explora técnicas de análise visual e melhoria de imagens.
 
 📘 Notebook:
 
-**Notebook 02:**[02_opencv_histogramas_espaco_cor_hsv.ipynb](https://github.com/deivison1983/Visao_Computacional_OpenCV/blob/main/notebooks/02_opencv_histogramas_espaco_cor_hsv.ipynb)
+**Notebook:**[ 02_opencv_histogramas_espaco_cor_hsv.ipynb](https://github.com/deivison1983/Visao_Computacional_OpenCV/blob/main/notebooks/02_opencv_histogramas_espaco_cor_hsv.ipynb)
 
 ---
 
@@ -86,7 +86,7 @@ Neste módulo são aplicadas técnicas intermediárias amplamente utilizadas em 
 
 📘 Notebook:
 
-**Notebook 03:**[03_opencv_transf_geometricas_processamento.ipynb](https://github.com/deivison1983/Visao_Computacional_OpenCV/blob/main/notebooks/03_opencv_transf_geometricas_processamento.ipynb)
+**Notebook:**[ 03_opencv_transf_geometricas_processamento.ipynb](https://github.com/deivison1983/Visao_Computacional_OpenCV/blob/main/notebooks/03_opencv_transf_geometricas_processamento.ipynb)
 
 ---
 

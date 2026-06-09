@@ -1,6 +1,6 @@
 # Fundamentos de Visão Computacional e Processamento de Imagens com OpenCV
 <div align="center">
-      <img src="data/imagem/logo_opencv_e_python.png" width="100%" height="5%">
+      <img src="data/imagem/logo_opencv_e_python.png" width="100%" height="500">
 </div>  
 
 

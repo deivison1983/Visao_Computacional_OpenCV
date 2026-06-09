@@ -25,7 +25,7 @@ O objetivo é demonstrar competências fundamentais utilizadas em pipelines de V
 
 ---
 
-## Conteúdo do Projeto
+## Conteúdo do Repositório
 
 ### 1. Fundamentos de Manipulação de Imagens
 
@@ -90,7 +90,7 @@ Neste módulo são aplicadas técnicas intermediárias amplamente utilizadas em 
 
 ---
 
-## Tecnologias Utilizadas
+## Bibliotecas Utilizadas
 
 - Python
 - OpenCV
@@ -177,6 +177,7 @@ Os conceitos apresentados neste projeto servem como base para aplicações mais 
 Deivison Morais. Visite o meu portfólio de projetos [aqui.](https://deivison1983.github.io/portfolio_projetos/)
 
 Pós-Graduação em Inteligência Artificial e Aprendizado de Máquina - PUC Minas
+
 Professor Orientador: Octavio Santana
 
 ### Contatos
